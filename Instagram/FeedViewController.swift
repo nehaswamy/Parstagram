@@ -169,5 +169,4 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
         let delegate = self.view.window?.windowScene?.delegate as! SceneDelegate
         delegate.window?.rootViewController = loginViewController
     }
->>>>>>> dbfbecb3e48501df79d29820c4e2e1a077438e1a
 }
